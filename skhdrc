@@ -39,3 +39,4 @@ shift + ctrl + cmd - s: open /Applications/Slack.app
 shift + ctrl + cmd - t: open /Applications/Microsoft\ Teams.app
 shift + ctrl + cmd - o: open /Applications/Microsoft\ Outlook.app
 shift + ctrl + cmd - f: open ~/
+shift + ctrl + cmd - r: open /Applications/RStudio.app
