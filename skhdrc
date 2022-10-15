@@ -18,6 +18,10 @@ shift + ctrl + cmd - right: yabai -m window --grid 1:2:1:0:1:1
 shift + ctrl + cmd - up: yabai -m window --grid 2:1:1:0:1:1
 shift + ctrl + cmd - down: yabai -m window --grid 2:1:0:1:1:1
 
+# move window between display
+shift + ctrl + alt - left: yabai -m window --display next; yabai -m display --focus next; yabai -m window --focus last; yabai -m window --grid 1:1:0:0:1:1;
+shift + ctrl + alt - right: yabai -m window --display prev; yabai -m display --focus prev; yabai -m window --focus last; yabai -m window --grid 1:1:0:0:1:1;
+
 # swap window(よく使う)
 shift + alt - h: yabai -m window --swap west
 shift + alt - j: yabai -m window --swap south
