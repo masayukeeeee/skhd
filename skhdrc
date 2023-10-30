@@ -41,7 +41,8 @@ shift + ctrl + cmd - n: open /Applications/Notion.app
 shift + ctrl + cmd - g: open /Applications/Google\ Chrome.app
 shift + ctrl + cmd - v: open /Applications/Visual\ Studio\ Code.app
 shift + ctrl + cmd - s: open /Applications/Slack.app
-shift + ctrl + cmd - t: open /Applications/Microsoft\ Teams.app
-shift + ctrl + cmd - o: open /Applications/Microsoft\ Outlook.app
+# shift + ctrl + cmd - t: open /Applications/Microsoft\ Teams.app
+# shift + ctrl + cmd - o: open /Applications/Microsoft\ Outlook.app
 shift + ctrl + cmd - f: open ~/
 shift + ctrl + cmd - r: open /Applications/RStudio.app
+shift + ctrl + cmd - b: open /Applications/Bitwarden.app
